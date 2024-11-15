@@ -1,7 +1,6 @@
 "use client";
 import clsx from "clsx";
 import { useState } from "react";
-import GradientBorder from "./Gradient-border";
 
 const links = ["Home", "Projects", "Deployments", "Members", "Settings"];
 const FlashlightTabs = () => {

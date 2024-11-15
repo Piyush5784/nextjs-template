@@ -1,9 +1,5 @@
 "use client";
-import {
-  Carousel,
-  CarouselNext,
-  CarouselPrevious,
-} from "@/components/ui/carousel";
+import { Carousel } from "@/components/ui/carousel";
 import Autoplay from "embla-carousel-autoplay";
 import CarouselContent from "./CarouselContent";
 
