@@ -2,6 +2,8 @@ import Appbar from "@/components/custom/Appbar";
 import { CarouselDemo } from "@/components/custom/CarouselWorks";
 import Features from "@/components/custom/Features";
 import Features2 from "@/components/custom/Features2";
+import FinalCTA from "@/components/custom/FinalCTA";
+import Footer from "@/components/custom/Footer";
 import HeroSection from "@/components/custom/HeroSection";
 import Logos from "@/components/custom/Logos";
 
@@ -23,6 +25,9 @@ const Home = () => {
 
         <CarouselDemo />
       </div>
+
+      <FinalCTA />
+      <Footer />
     </div>
   );
 };

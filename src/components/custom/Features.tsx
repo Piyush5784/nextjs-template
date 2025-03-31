@@ -48,7 +48,7 @@ const Features = () => {
       <div className=" pt-20 h-screen font-medium  text-white">
         <div className="flex items-center md:items-start  flex-col md:flex-row justify-center  pt-10 px-2 mt-5 gap-20">
           <div className="md:w-[50%] hidden md:block">
-            <div className="bg-gradient-to-b from-transparent to-purple-950  w-[25rem] md:w-[45rem] flex items-center justify-center rounded-xl h-[26rem]">
+            <div className="bg-gradient-to-b from-transparent to-purple-600  w-[25rem] md:w-[45rem] flex items-center justify-center rounded-xl h-[26rem]">
               <div>
                 <Image
                   src="/sideImage2.png"
